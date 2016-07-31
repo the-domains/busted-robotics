@@ -1,0 +1,14 @@
+layout_spectrum: 0.9391237429808825
+typography_spectrum: 0.5233684813138098
+color:
+  brandStrength: 0.46091818111017346
+  lightness: 0.29688194673508406
+  saturation: 0.7830652836710215
+  rhythmicContrast: 0.4828526615165174
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: busted robotics
