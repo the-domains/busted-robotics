@@ -1,14 +1,26 @@
-layout_spectrum: 0.9391237429808825
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.5233684813138098
 color:
-  brandStrength: 0.46091818111017346
-  lightness: 0.29688194673508406
   saturation: 0.7830652836710215
+  brandStrength: 0.4609181811101735
   rhythmicContrast: 0.4828526615165174
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  lightness: 0.2968819467350841
+layout_spectrum: 0.1734694
 name: busted robotics
